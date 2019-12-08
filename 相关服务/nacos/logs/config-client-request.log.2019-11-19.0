@@ -1,0 +1,12 @@
+2019-11-19 18:10:59,300|32|true|127.0.0.1|publish|example|DEFAULT_GROUP||7d967884a3a4a3a216cb5285f1125b20|null
+2019-11-19 18:11:10,353|175|true|127.0.0.1|publish|example|DEFAULT_GROUP||e9e436b8627bcf85a14b2eb3ee1de4b7|null
+2019-11-19 18:13:34,032|16|true|0:0:0:0:0:0:0:1|remove|example|DEFAULT_GROUP||null|null
+2019-11-19 18:16:13,722|6|true|0:0:0:0:0:0:0:1|publish|app.dev.properties|DEFAULT_GROUP||62bfe683e6c4388ff92bb3c9570be813|null
+2019-11-19 18:16:42,002|5|true|0:0:0:0:0:0:0:1|publish|app-dev.properties|DEFAULT_GROUP||62bfe683e6c4388ff92bb3c9570be813|null
+2019-11-19 18:16:46,468|6|true|0:0:0:0:0:0:0:1|remove|app.dev.properties|DEFAULT_GROUP||null|null
+2019-11-19 19:12:12,355|19|null|127.0.0.1|get|example|DEFAULT_GROUP|||null
+2019-11-19 19:12:16,194|0|null|127.0.0.1|get|example|DEFAULT_GROUP|||null
+2019-11-19 19:12:46,060|48|null|127.0.0.1|get|app-dev.properties|DEFAULT_GROUP||62bfe683e6c4388ff92bb3c9570be813|null
+2019-11-19 19:13:09,008|228|true|0:0:0:0:0:0:0:1|publish|app-dev.properties|DEFAULT_GROUP||c9c3d989018ccf40375332f32765787a|null
+2019-11-19 19:13:11,932|2|null|127.0.0.1|get|app-dev.properties|DEFAULT_GROUP||c9c3d989018ccf40375332f32765787a|null
+2019-11-19 19:13:29,830|18|true|0:0:0:0:0:0:0:1|publish|app-dev.properties|DEFAULT_GROUP||c9c3d989018ccf40375332f32765787a|null

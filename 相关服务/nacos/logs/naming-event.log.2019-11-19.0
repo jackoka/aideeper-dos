@@ -1,0 +1,10 @@
+2019-11-19 19:10:46,098 INFO DEFAULT_GROUP@@springboot2-nacos-discovery {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-19 19:10:46,101 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@springboot2-nacos-discovery, ips: 127.0.0.1:8080_true,
+
+2019-11-19 19:11:46,016 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:8080@DEFAULT@DEFAULT_GROUP@@springboot2-nacos-discovery, region: unknown, msg: client timeout after 15000, last beat: 1574161845994
+
+2019-11-19 19:11:46,204 INFO DEFAULT_GROUP@@springboot2-nacos-discovery {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2019-11-19 19:11:46,204 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@springboot2-nacos-discovery, ips: 
+

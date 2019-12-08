@@ -1,0 +1,24 @@
+2019-11-21 08:18:06,485 INFO DEFAULT_GROUP@@blade-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.99.130:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-21 08:18:06,497 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-gateway, ips: 
+
+2019-11-21 08:18:08,984 INFO DEFAULT_GROUP@@blade-log {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.99.130:8103:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-21 08:18:08,984 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-log, ips: 
+
+2019-11-21 08:18:09,017 INFO DEFAULT_GROUP@@blade-user {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.99.130:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-21 08:18:09,017 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-user, ips: 
+
+2019-11-21 08:18:09,244 INFO DEFAULT_GROUP@@blade-auth {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.99.130:8100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-21 08:18:09,244 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-auth, ips: 
+
+2019-11-21 08:18:09,634 INFO DEFAULT_GROUP@@blade-desk {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.99.130:8105:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-21 08:18:09,635 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-desk, ips: 
+
+2019-11-21 08:18:10,499 INFO DEFAULT_GROUP@@blade-system {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.99.130:8106:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-11-21 08:18:10,499 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@blade-system, ips: 
+
